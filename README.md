@@ -14,5 +14,7 @@ Link-Download
 https://pixeldrain.com/u/aJi4ZNRn
 
 
-tested on old Windows 2024
+tested on old Windows 11 from 2024
 should be working on any LiteOS version 
+
+Windows 10 have problem mb method #1 would be better
