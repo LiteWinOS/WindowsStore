@@ -11,3 +11,7 @@ if u like to have xbox platform run GamingRepairTool again
 if u just need store to work get from: 
 Link-Download
 https://pixeldrain.com/u/aJi4ZNRn
+
+
+tested on old Windows 2024
+should be working on any LiteOS version 
