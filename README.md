@@ -5,7 +5,7 @@ run Enable WinStore - Run As ADMIN.bat
 reboot the pc
 
 
-if u like to have xbox platform run GamingRepairTool again
+if u like to have xbox platform run GamingRepairTool again (if u already have win store installed open it)
 -------
 
 if u just need store to work get from: 
